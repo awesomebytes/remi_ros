@@ -8,11 +8,7 @@ This library is used for the [web dynamic reconfigure client](https://github.com
 
 Whenever REMI is released in pip/Ubuntu or so this wrapper won't be necessary anymore.
 
-To clone this repository you need to additionally do:
+To clone this repository as it has a submodule you need to:
 
-````
-git submodule init
-git submodule update
-````
+    git clone --recursive git://github.com/foo/bar.git
 
-To download the submodule of the remi package.
