@@ -10,5 +10,5 @@ Whenever REMI is released in pip/Ubuntu or so this wrapper won't be necessary an
 
 To clone this repository as it has a submodule you need to:
 
-    git clone --recursive git://github.com/foo/bar.git
+    git clone --recursive https://github.com/awesomebytes/remi_ros
 
