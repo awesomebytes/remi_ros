@@ -7,3 +7,8 @@ This is a ROS package to wrap the [REMI](https://github.com/dddomodossola/remi) 
 This library is used for the [web dynamic reconfigure client](https://github.com/awesomebytes/web_dyn_reconf), for example.
 
 Whenever REMI is released in pip/Ubuntu or so this wrapper won't be necessary anymore.
+
+To clone this repository as it has a submodule you need to:
+
+    git clone --recursive git://github.com/foo/bar.git
+
